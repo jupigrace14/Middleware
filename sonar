@@ -35,4 +35,4 @@ http://<your-ip-address>:9000
 
 #sudo firewall-cmd --permanent --add-port=9000/tcpcd
 
-# sudo firewall-cmd --reload
+# sudo firewall-cmd --reloadS
